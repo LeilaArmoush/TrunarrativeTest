@@ -1,4 +1,4 @@
-<h2>Prequesites</h2>
+<h2>Prerequisites</h2>
 <ul>
 <li>Maven</li>
 <li>Java</li>
