@@ -9,6 +9,6 @@
 
 <ul>
 <li>Clone the repository</li>
-<li>Navigate the inside the test cucumber folder</li>
+<li>Navigate the inside the testcucumber folder</li>
 <li>Execute the command mvn test from a terminal</li>
 <li>Watch the tests run!</li>
